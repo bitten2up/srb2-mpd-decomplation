@@ -1,0 +1,45 @@
+Compiled for SDL version: 2.0.10
+Linked with SDL version: 2.0.10
+Setting up SRB2...
+
+
+Sonic Robo Blast 2
+Copyright (C) 1998-2022 by Sonic Team Junior
+
+This program comes with ABSOLUTELY NO WARRANTY.
+
+This is free software, and you are welcome to redistribute it
+and/or modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2 of
+the License, or (at your option) any later version.
+See the 'LICENSE.txt' file for details.
+
+Sonic the Hedgehog and related characters are trademarks of SEGA.
+We do not claim ownership of SEGA's intellectual property used
+in this program.
+
+M_StartupLocale...
+Looking for WADs in: SRB2WADDIR
+Z_Init(): Init zone memory allocation daemon. 
+System memory: 2047MB - Free: 1316MB
+I_StartupTimer()...
+W_InitMultipleFiles(): Adding IWAD and main PWADs.
+Added file /home/bitten2up/.srb2\srb2.pk3 (12647 lumps)
+Loading SOC from /home/bitten2up/.srb2\srb2.pk3|SOC/SOC_TITL
+Loading SOC from /home/bitten2up/.srb2\srb2.pk3|SOC/SOC_LETR
+Added file /home/bitten2up/.srb2\zones.pk3 (141 lumps)
+Loading SOC from /home/bitten2up/.srb2\zones.pk3|SOC/SOC_EMBM.txt
+Loading SOC from /home/bitten2up/.srb2\zones.pk3|SOC/SOC_HEAD.txt
+Loading SOC from /home/bitten2up/.srb2\zones.pk3|SOC/SOC_SECR.txt
+Loading SOC from /home/bitten2up/.srb2\zones.pk3|SOC/Tutorial.txt
+Added file /home/bitten2up/.srb2\player.dta (1869 lumps)
+Loading SOC from /home/bitten2up/.srb2\player.dta|SOC_PLAY
+Added file /home/bitten2up/.srb2\music.dta (181 lumps)
+
+I_Error(): File is old, is corrupt or has been modified:
+/home/bitten2up/.srb2\zones.pk3
+Found MD5: 1c8adf8d079ecb87d00081f158acf3c7
+Wanted MD5: 86ae55cae4e0a93ceda868635706a093
+
+I_ShutdownGraphics(): graphics never started
+I_ShutdownSystem(): end of logstream.
